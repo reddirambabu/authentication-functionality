@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.heading {
+  font-size: 34px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: black;
+}
+
+.button {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #3872fa;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
